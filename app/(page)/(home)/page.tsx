@@ -1,6 +1,6 @@
 import Image from "next/image";
-import Shape from '../public/Shape.png'
-import Button from "./components/UI/Button.jsx";
+import Shape from '../../../public/Shape.png'
+import Button from "../../components/UI/Button.jsx";
 
 export default function Home() {
   return (
